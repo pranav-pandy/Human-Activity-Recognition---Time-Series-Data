@@ -74,7 +74,3 @@ The resulting feature matrix is used for training classification models.
 - Jupyter Notebook for development and experimentation
 
 ---
-
-## 📂 Repository Structure
-
-
